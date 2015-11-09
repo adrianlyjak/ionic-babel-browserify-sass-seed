@@ -13,4 +13,5 @@ npm install -g bower
 bower install
 npm install -g gulp
 gulp
+ionic serve
 ```
