@@ -7,3 +7,10 @@ Ionic blank project reorganize to have a more sane src/dist compile cycle. Add b
 - [Browserify](http://browserify.org/)
 - [Babel+Browserify](http://egorsmirnov.me/2015/05/25/browserify-babelify-and-es6.html) - _may be inefficient build cycle? will revisit once I've used this seed a little more_
 
+```shell
+npm install
+npm install -g bower
+bower install
+npm install -g gulp
+gulp
+```
